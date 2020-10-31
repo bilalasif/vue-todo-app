@@ -1,0 +1,9 @@
+<template>
+  <div class="about">
+    <h1>This is an about page</h1>
+    <p>
+      This is the TodoList app v1.0.0, It was developed by following Traversery
+      media Youtube tutorial. I love Brad for awsome tutorials.
+    </p>
+  </div>
+</template>
